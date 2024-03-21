@@ -12,7 +12,6 @@ include('model/types_db.php');
     <header class="list__row list__header">
         <h1>Vehicle Inventory</h1>
         <form action="." method="post" id="list__header__select" class="list__header__select">
-            <input type="hidden" name="action" value="list_inventory">
             <select name="order" required>
                 <option value="price_desc">Price (High to Low)</option>
                 <option value="price_asc">Price (Low to High)</option>
