@@ -1,6 +1,6 @@
 <?php
 // Connects to the ZippyUsedAutos database
-$dsn = 'etdq12exrvdjisg6.cbetxkdyhwsb.us-east-1.rds.amazonaws.com;dbname=et6jp5phfggu6kos';
+$dsn = 'mysql:host=etdq12exrvdjisg6.cbetxkdyhwsb.us-east-1.rds.amazonaws.com;dbname=et6jp5phfggu6kos';
 $username = 'pqzirqysdzixmwdq';
 $password = 'yfl4d7mg70coaxpw';
 
